@@ -12,8 +12,8 @@ The app can either be run from a local machine or via the streamlit app link.
 
 The app can be run locally in a virtual environment (i.e. conda) with the following packages installed using *pip*:
 
--streamlit = 1.18.1
--yfinance = 0.2.12
+- streamlit = 1.18.1
+- yfinance = 0.2.12
 
 Once the above packages are successfully installed, the app can be run with the following command in terminal:
 
