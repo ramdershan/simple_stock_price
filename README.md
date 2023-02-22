@@ -4,7 +4,7 @@ This simple streamlit web app shows the stock price of TJX Companies Inc. for th
 
 ![streamlit app page](app_page.png "streamlit app page")
 
-This project is one of the simple projects from freecodecamp's [youtube](https://www.youtube.com/watch?v=JwSS70SZdyM) channel
+This project is one of the simple projects from freecodecamp's [youtube video](https://www.youtube.com/watch?v=JwSS70SZdyM)
 
 The app can either be run from a local machine or via the streamlit app link.
 
