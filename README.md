@@ -8,7 +8,7 @@ This project is one of the simple projects from freecodecamp's [youtube video](h
 
 The app can either be run from a local machine or via the streamlit app link.
 
-###Local Machine
+### Local Machine
 
 The app can be run locally in a virtual environment (i.e. conda) with the packages in the *requirments.txt* file installed and the following command:
 
@@ -16,6 +16,6 @@ The app can be run locally in a virtual environment (i.e. conda) with the packag
 streamlit run simple_stock_streamlit.py
 ```
 
-###Streamlit App Link
+### Streamlit App Link
 
 I have also deployed this app on streamlit's community cloud. The app can accessed through the following link: https://simple-stock-price-ramd.streamlit.app/
